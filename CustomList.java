@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.Random;
+
 class CustomList {
 
 	private ArrayList<String> list = new ArrayList<String>();
